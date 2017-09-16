@@ -24,6 +24,10 @@ Web Font Version of Nanum Barun Gothic. Created by [NAVER](http://www.naver.com)
 bower install NanumBarunGothic
 ```
 
+**Install via npm**
+```
+npm install typeface-nanum-barun-gothic --save
+```
 ## Applying
 
 **CSS**
